@@ -1,0 +1,1 @@
+This React Native code uses the deprecated `AsyncStorage` API, which can lead to unexpected behavior or crashes.  The `AsyncStorage` API is deprecated in favor of alternatives like `MMKV` or `AsyncStorage` (with careful consideration for its limitations).
